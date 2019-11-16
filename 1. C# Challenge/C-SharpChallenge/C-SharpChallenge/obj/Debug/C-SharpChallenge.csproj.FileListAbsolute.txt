@@ -1,0 +1,7 @@
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\bin\Debug\C-SharpChallenge.exe.config
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\bin\Debug\C-SharpChallenge.exe
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\bin\Debug\C-SharpChallenge.pdb
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\obj\Debug\C-SharpChallenge.csprojAssemblyReference.cache
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\obj\Debug\C-SharpChallenge.csproj.CoreCompileInputs.cache
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\obj\Debug\C-SharpChallenge.exe
+D:\Users\Gabe\Documents\Visual Studio 2019\Projects\C-SharpChallenge\C-SharpChallenge\obj\Debug\C-SharpChallenge.pdb
